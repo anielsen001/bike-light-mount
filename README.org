@@ -1,0 +1,13 @@
+#+TITLE: Rear bike rack adaptor for bike light with clip
+
+This is an OpenSCAD design to print an adaptor for a bike light
+with a clip (in this case, a Portland Design Works Danzer Zone) to 
+a rear rack mounting bracket. 
+
+This design was inspired by these:
+
+Includes OpenSCAD files (this design modifies this)
+https://www.thingiverse.com/thing:8947/files
+
+sketchup drawings.
+https://www.thingiverse.com/thing:226475
