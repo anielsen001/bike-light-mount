@@ -1,5 +1,9 @@
 /*
 
+Modificaitons by Aaron Nielsen
+20 October 2019
+
+Original:
 Adapter for bike light to rack
 Gian Pablo Villamil
 May 30, 2011
